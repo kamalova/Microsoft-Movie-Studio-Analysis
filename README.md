@@ -24,13 +24,8 @@ I used two different movie data sources for my analysis to get the broadest view
 - The Numbers - film industry data website that tracks box office revenue in a systematic, algorithmic way. The first pre-unfiltered dataset tn_movies is in the format of compressed CSV file. Dataset contains 5782 values for movies' release date, title, production budget, domestic gross, and worldwide gross in dollars.Since most of the column attributes contained numeric values, movies' profit and return on investment has been calculated based on this dataset
 - Internet Movie Database (IMDB) - website that provides information about millions of films and television programs as well as their cast and crew. The second dataset IMDB is located in a SQLite database. For the purpose of my analysis I eliminated several SQL tables that are peoples (basic information about the people that were involved to the particular movies), directors, writers, movie basics. They all were related to each other throughout the movie_id.
 
-### Key Points
-
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+### Methods
+I imported data from reputable sources, then I removed unnecessary data such as duplicates and irrelevant columns. I filled null values via API calls when appropriate. I utilized descriptive statistics as well as visualizations to illuminate trends in the data and isolate key factors for making a successful movie. This approach was appropriate for analyzing trends in the movie industry and common attributes of high-grossing movies, so that I could make informed recommendations.
 
 ## Deliverables
 
