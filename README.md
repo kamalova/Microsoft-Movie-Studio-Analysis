@@ -57,7 +57,7 @@ I wanted to further analyze and see the production budget of the films written b
 The above analysis leads to three recommendations for Microsoft to release a successful film studio :
 
 - Based on Microsoft's investment, I would suggest starting with movie genres with a smaller production budget of about 25 million dolllars which are **mystery** and **horror**, then increasing up to 75 million dollars with the **fantasy** genre. They are the best genres with the greatest return on investments
-- For the directing of movies, I would recommend working  **Francis Lawrence** and **Kenneth Branagh** along with an average production volume of 1 million to 105 million. **Zack Snyder** is best suited for films with the highest production budget ove the 170 million.They all are the most profitable directors in the movie industry.
+- For the directors of a film in average worth up to 72 million dollars, I would recommend **Kenneth Branagh** as a director. Whereas,**Francis Lawrence** and **Zack Snyder** are suitable directors for the movies starting average production budget of 105M and over. They are all the most profitable film directors.
 - For the production of a film in average worth up to 85 million dollars, I would recommend **Brian Lynch** as a screenwriter. Whereas, **Christopher Nolan** and **Jack Kirby** are suitable screenwriters for the movies with the higher production budget. They are all the most successful film screenwriters.
 
 ### Next Steps
