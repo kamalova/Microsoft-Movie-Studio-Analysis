@@ -28,17 +28,19 @@ I used two different movie data sources for my analysis to get the broadest view
 I imported data from given sources, then  applied data cleaning and feature engineering techniques. Using descriptive analysis and visualization obtained the influencing aspects of films to create a profitable movie studio.
 
 ### Results
+
+#### Movie Genres
 Based on the bar graph below  I will analyze the movies that production budgets starting from the 1 Million.
 ![fig1](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig1.png)
 
 In terms of the overall movies produced *drama* genre exceeds the rest of the movie genres. Genres *comedy* and *action* are the next frequently produced movie genres.
 ![fig2](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig2.png)
 
-However, based on the Return on the Investment we can see different movie genres which are *fantasy*, *horror* and *mystery* . 
+However, based on the Return on the Investment we can see different movie genres which are *fantasy*, *horror* and *mystery* below. 
 
 ![fig3](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig3.png)
 
-Interestingly, I was attracted to those top genres of films for which a high return on the investment required a smaller production budget, especially horror and mystery, which did not exceed 30 million dollars in production that plotted below
+Interestingly, I was attracted to those top genres of films for which a high return on the investment required a smaller production budget, especially horror and mystery, which did not exceed 30 million dollars in production budget
 ![fig4](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig4.png)
    
 ### Conclusion
