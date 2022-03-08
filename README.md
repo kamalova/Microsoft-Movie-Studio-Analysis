@@ -1,6 +1,6 @@
 
 
-![banner.jpg](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
+![banner.jpg](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/banner.jpg)
    
 # Microsoft Movie Analysis 
 #### **Author**: Nurgul Kurbanali kyzy
