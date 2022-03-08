@@ -61,7 +61,7 @@ The above analysis leads to three recommendations for Microsoft to release a suc
 - For the production of a film in average worth up to 85 million dollars, I would recommend **Brian Lynch** as a screenwriter. Whereas, **Christopher Nolan** and **Jack Kirby** are suitable screenwriters for the movies with the higher production budget. They are all the most successful film screenwriters.
 
 ### Next Steps
-Further analysis could be improved by adding additional data as it becomes available. It could also be expanded upon by determining release times of the movies and other influencing attribute such as actor and actresses.
+Further analysis could be improved by adding additional data as it becomes available. It could also be expanded upon by determining release times of the movies and other influencing attributes such as actor and actresses.
 
 ### More Information
 See the full analysis in the Jupyter Notebook or review this presentation.
