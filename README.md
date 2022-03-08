@@ -34,10 +34,12 @@ Based on the bar graph below  I will analyze the movies that production budgets 
 In terms of the overall movies produced *drama* genre exceeds the rest of the movie genres. Genres *comedy* and *action* are the next frequently produced movie genres.
 ![fig2](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig2.png)
 
-However, based on the Return on the Investment we can see different movie genres which are *fantasy*, *horror* and *mystery* below. 
+However, based on the Return on the Investment we can see different movie genres which are *fantasy*, *horror* and *mystery* . 
 
 ![fig3](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig3.png)
 
+Interestingly, I was attracted to those top genres of films for which a high return on the investment required a smaller production budget, especially horror and mystery, which did not exceed 30 million dollars in production that plotted below
+![fig4](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig4.png)
    
 ### Conclusion
 
