@@ -1,7 +1,6 @@
-![banner.jpg](attachment:Data-Scientist.jpg)
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
+
+![banner.jpg](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
 
 Now you will put your new skills to use with a large end-of-Phase project!
 
