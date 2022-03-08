@@ -59,3 +59,13 @@ The above analysis leads to three recommendations for Microsoft to release a suc
 - Based on Microsoft's investment, I would suggest starting with movie genres with a smaller production budget of about 25 million dolllars which are **mystery** and **horror**, then increasing up to 75 million dollars with the **fantasy** genre. They are the best genres with the greatest return on investments
 - For the directing of movies, I would recommend working with Francis Lawrence and **Kenneth Branagh** along with an average production volume of 1 million to 105 million. **Zack Snyder** is best suited for films with the highest production budget ove the 170 million.They all are the most profitable directors in the movie industry.
 - For the production of a film in average worth up to 85 million dollars, I would recommend **Brian Lynch** as a screenwriter. Whereas, **Christopher Nolan** and **Jack Kirby** are suitable screenwriters for the movies with the higher production budget. They are all the most successful film screenwriters.
+
+### Next Steps
+Further analysis could be improved by adding additional data as it becomes available. It could also be expanded upon by determining release times of the movies and other influencing attribute such as actor and actresses.
+
+### More Information
+See the full analysis in the Jupyter Notebook or review this presentation.
+
+For additional info, contact Nurgul Kurbanali kyzy  at  nurkamalova@gmail.com
+
+### Repository Structure
