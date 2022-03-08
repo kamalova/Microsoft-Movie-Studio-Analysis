@@ -3,7 +3,7 @@
 ![banner.jpg](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
    
 # Microsoft Movie Analysis 
-#### Author: Nurgul Kurbanli kyzy
+#### *Author*: Nurgul Kurbanli kyzy
 Now you will put your new skills to use with a large end-of-Phase project!
 
 In this project description, we will cover:
