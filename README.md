@@ -31,8 +31,11 @@ I imported data from given sources, then  applied data cleaning and feature engi
 Based on the bar graph below  I will analyze the movies that production budgets starting from the 1 Million.
 ![fig1](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig1.png)
 
-In terms of the overall movies produced Drama genre exceeds the rest of the movie genres. Genres comedy and action are the next frequently made movie genres. However, based on the Return on the Investment we can see different movie genres which are fantasy, horror and mystery.
+In terms of the overall movies produced *drama* genre exceeds the rest of the movie genres. Genres comedy and action are the next frequently produced movie genres. 
 ![fig2](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig2.png)
+
+However, based on the Return on the Investment we can see different movie genres which are *fantasy*, *horror* and *mystery*. 
+
    
 ### Conclusion
 
