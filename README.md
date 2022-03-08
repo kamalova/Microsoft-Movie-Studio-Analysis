@@ -3,7 +3,7 @@
 ![banner.jpg](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
    
 # Microsoft Movie Analysis 
-#### Author: Nurgul Kurbanli kyzy
+#### **Author**: Nurgul Kurbanali kyzy
 
 ### Project Overview
 
