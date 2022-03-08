@@ -44,6 +44,7 @@ Interestingly, I was attracted to those top genres of films for which a high ret
 
 #### Movie Directors
 ![fig5](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig5.png)
+![fig6](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/images/fig6.png)
    
 ### Conclusion
 
