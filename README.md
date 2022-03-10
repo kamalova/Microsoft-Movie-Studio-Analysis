@@ -56,9 +56,9 @@ I wanted to further analyze and see the production budget of the films written b
 
 The above analysis leads to three recommendations for Microsoft to release a successful film studio :
 
-- Based on Microsoft's investment, I would suggest starting with movie genres with a smaller production budget of around 22/25  million dolllars which are *mystery* and *horror*, then increasing up to 70 million dollars with the *fantasy* genre. They are the best genres with the greatest return on investments 
-- For the directing  of movies, I would recommend working with *Francis Lawrence* and *Kenneth Branagh* along with an average movies production volume of 72 million up to 104 million. *Zack Snyder* is best suited for films with the highest production budget ove the 170 million.They all are the most profitable directors in the movie industry.
-- For the production of a film in average worth up to 84 million dollars, I would recommend *Brian Lynch* as a screenwriter. Whereas, *Christopher Nolan* and *Jack Kirby* are suitable screenwriters for movies with a higher production budget of 186-195 million dollars on average. They are all the most successful film screenwriters.
+Based on Microsoft's investment, I would suggest starting with movie genres with a smaller production budget of around 22/25 million dolllars which are mystery and horror, then increasing up to 70 million dollars with the fantasy genre. They are the best genres with the greatest return on investments
+For the directing of movies, I would recommend working with Francis Lawrence and Kenneth Branagh along with an average movies production volume of 72 million up to 104 million. Zack Snyder is best suited for films with the highest production budget ove the 170 million.They all are the most profitable directors in the movie industry.
+For the production of a film in average worth up to 84 million dollars, I would recommend Brian Lynch as a screenwriter. Whereas, Christopher Nolan and Jack Kirby are suitable screenwriters for movies with a higher production budget of 186-195 million dollars on average. They are all the most successful film screenwriters.
 
 ### Next Steps
 Further analysis could be improved by adding additional data as it becomes available. It could also be expanded upon by determining release times of the movies and other influencing attributes such as actor and actresses.
