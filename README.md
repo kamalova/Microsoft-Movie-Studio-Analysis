@@ -68,11 +68,3 @@ See the full analysis in the [Jupyter Notebook](https://github.com/kamalova/Micr
 
 For additional info, contact **Nurgul Kurbanali kyzy**  at  nurkamalova@gmail.com
 
-### Repository Structure
-├── README.md                        <- README for reviewers of this project
-├── microsoft_movie_analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── movie_analysis_slides.pdf        <- Project presentation in PDF 
-├── movie_notebook.pdf               <- Jupyter Notebook in PDf
-├── data                             <- Both sourced externally and generated from code
-└── images                           <- Both sourced externally and generated from code
-
