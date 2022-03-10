@@ -64,7 +64,7 @@ For the production of a film in average worth up to 84 million dollars, I would 
 Further analysis could be improved by adding additional data as it becomes available. It could also be expanded upon by determining release times of the movies and other influencing attributes such as actor and actresses.
 
 ### More Information
-See the full analysis in the Jupyter Notebook or review this presentation.
+See the full analysis in the [Jupyter Notebook](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/movie_analysis%20_notebook.pdf) or review this [presentation](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/movie_analysis_presentation.pdf).
 
 For additional info, contact Nurgul Kurbanali kyzy  at  nurkamalova@gmail.com
 
