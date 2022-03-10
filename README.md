@@ -66,6 +66,6 @@ Further analysis could be improved by adding additional data as it becomes avail
 ### More Information
 See the full analysis in the [Jupyter Notebook](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/movie_analysis%20_notebook.pdf) or review this [presentation](https://github.com/kamalova/Microsoft-Movie-Analysis/blob/main/movie_analysis_presentation.pdf).
 
-For additional info, contact Nurgul Kurbanali kyzy  at  nurkamalova@gmail.com
+For additional info, contact **Nurgul Kurbanali kyzy**  at  nurkamalova@gmail.com
 
 
